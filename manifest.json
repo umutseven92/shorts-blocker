@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Shorts Blocker",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Blocks Youtube Shorts from appearing in the Youtube Subscriptions page.",
     "icons": {
         "16": "images/icon-16.png",
@@ -15,7 +15,7 @@
                 "css/blocker.css"
             ],
             "matches": [
-                "https://www.youtube.com/feed/subscriptions/*"
+                "https://www.youtube.com/*"
             ]
         }
     ]
