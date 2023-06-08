@@ -1,6 +1,3 @@
-ytd-grid-video-renderer:has(a[href*="/shorts/"]) {
-    visibility: hidden !important;
-    display: none !important;
-    width: 0 !important;
-    height: 0 !important;
+ytd-rich-item-renderer:has(a[href*="/shorts/"]) {
+    opacity: 10% !important;
 }
