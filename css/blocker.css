@@ -1,3 +1,27 @@
-ytd-rich-item-renderer:has(a[href*="/shorts/"]) {
-    opacity: 10% !important;
+ytd-rich-section-renderer:has(a[href*="/shorts/"]) {
+    visibility: hidden !important;
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+ytd-reel-shelf-renderer:has(a[href*="/shorts/"]) {
+    visibility: hidden !important;
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+ytd-video-renderer:has(a[href*="/shorts/"]) {
+    visibility: hidden !important;
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+ytd-guide-entry-renderer:has(path[d*="M10 14.65v-5.3L15 12l-5"]) {
+    visibility: hidden !important;
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
 }
