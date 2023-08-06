@@ -1,6 +1,6 @@
 # Shorts Blocker
 
-This extension removes Youtube Shorts from everywhere; the home page, subscriptions page, search results, and even the side bar.
+This extension removes Youtube Shorts from everywhere; the home page, subscriptions page and even the search results.
 
 ## How It Works
 

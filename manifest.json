@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Shorts Blocker",
-    "version": "3.0",
-    "description": "Removes Youtube Shorts from everywhere.",
+    "version": "3.1",
+    "description": "Removes Shorts from the home page, subscriptions page, and the search results in Youtube.",
     "icons": {
         "16": "images/icon-16.png",
         "32": "images/icon-32.png",
