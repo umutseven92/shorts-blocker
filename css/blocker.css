@@ -5,6 +5,7 @@ ytd-rich-grid-slim-media:has(a[href*="/shorts/"]),
 ytd-rich-grid-media:has(a[href*="/shorts/"]),
 ytd-reel-shelf-renderer:has(a[href*="/shorts/"]),
 ytd-video-renderer:has(a[href*="/shorts/"]),
+yt-tab-shape[tab-title="Shorts"],
 ytd-guide-entry-renderer:has(path[d*="M10 14.65v-5.3L15 12l-5"]),
 yt-chip-cloud-chip-renderer:has(yt-formatted-string[title="Shorts"]) {
 	visibility: hidden !important;
