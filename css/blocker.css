@@ -8,6 +8,8 @@ ytd-video-renderer:has(a[href*="/shorts/"]),
 yt-tab-shape[tab-title="Shorts"],
 ytd-guide-entry-renderer:has(path[d*="M10 14.65v-5.3L15 12l-5"]),
 ytd-guide-entry-renderer:has(a[title*="Shorts"]),
+#contents > grid-shelf-view-model,
+#chips > yt-chip-cloud-chip-renderer:nth-child(2),
 yt-chip-cloud-chip-renderer:has(yt-formatted-string[title="Shorts"]) {
 	visibility: hidden !important;
 	display: none !important;
